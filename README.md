@@ -18,4 +18,4 @@ Financial analysis (NSE filings) • 25,000-row operational dataset (pandas)
 3. Quarterly partner scorecards + transparency reporting
 
 ## Deliverables
-[Full PDF]([https://drive.google.com/file/d/17kNaClhSpVrCumrQca8KrV3QaVuanv_N/view?usp=drive_link]) • [Notebook](link) • [Data](link)
+[Full PDF](https://drive.google.com/file/d/17kNaClhSpVrCumrQca8KrV3QaVuanv_N/view?usp=drive_link) • [Notebook](link) • [Data](link)
